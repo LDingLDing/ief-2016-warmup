@@ -105,8 +105,10 @@
 
 **其他学习资源**
 
-    [百度前端技术学院2015春季班学习资料](https://github.com/baidu-ife/ife/tree/master/2015_spring/task/task0001)
-    [百度传课](http://www.chuanke.com/course/_web%E5%89%8D%E7%AB%AF_____.html)
-    微信公众号：前端早读课
+[百度前端技术学院2015春季班学习资料](https://github.com/baidu-ife/ife/tree/master/2015_spring/task/task0001)
+
+[百度传课](http://www.chuanke.com/course/_web%E5%89%8D%E7%AB%AF_____.html)
+
+微信公众号：前端早读课
 
 
